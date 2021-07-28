@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffdddbdc" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:background="@drawable/logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="30.0dip" android:layout_marginBottom="40.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <TextView android:textSize="11.0sp" android:textColor="#ff292421" android:gravity="center_vertical" android:id="@id/mt_soft_info" android:layout_width="wrap_content" android:layout_height="0.0dip" android:text="@string/mt_version_inf" android:layout_weight="1.0" />
+        <TextView android:textSize="11.0sp" android:textColor="#ff292421" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="0.0dip" android:text="@string/mt_weibo" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

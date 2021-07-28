@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.xxGameAssistant.pao">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.ACCESS_SUPERUSER"/>
+    <application android:allowBackup="true" android:icon="@drawable/logo" android:label="@string/app_name" android:name="com.xxGameAssistant.pao.MTApplication" android:theme="@style/MyAppTheme">
+        <activity android:alwaysRetainTaskState="true" android:label="@string/app_name" android:launchMode="singleTop" android:name="com.xxGameAssistant.pao.SplashActivity" android:screenOrientation="portrait">
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <meta-data android:name="TD_APP_ID" android:value="605385994562C0F61A40F1114C0849C8"/>
+        <mlibinjecteta-data android:name="TD_CHANNEL_ID" android:value="noChannel"/>
+        <activity android:label="@string/app_name" android:name=".MainActivity" android:screenOrientation="portrait"/>
+    </application>
+</manifest>

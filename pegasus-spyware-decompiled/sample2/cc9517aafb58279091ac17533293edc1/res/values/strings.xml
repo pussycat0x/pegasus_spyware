@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="skeleton_app">Binary SMS Receiver</string>
+    <string name="back">Back</string>
+    <string name="clear">Clear</string>
+    <string name="main_label">Hello <u>th<ignore>e</ignore>re</u>, <i>you</i> <b>Activity</b>!</string>
+    <string name="cat">Copy Data Description</string>
+</resources>

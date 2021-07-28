@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: d257cfde7599f4e20ee08a62053e6b3b936c87d373e6805f0e0c65f1d39ec320.apk
+compressionType: false
+doNotCompress:
+- png
+- jpg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '17'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0
+versionInfo:
+  versionCode: '1'
+  versionName: 1.1.9

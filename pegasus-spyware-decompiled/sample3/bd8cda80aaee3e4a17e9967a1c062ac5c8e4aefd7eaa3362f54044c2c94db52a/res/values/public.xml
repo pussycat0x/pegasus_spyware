@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="layout" name="blackscreen" id="0x7f020000" />
+    <public type="layout" name="main" id="0x7f020001" />
+    <public type="raw" name="addk" id="0x7f030000" />
+    <public type="raw" name="cmdshell" id="0x7f030001" />
+    <public type="raw" name="libk" id="0x7f030002" />
+    <public type="raw" name="output" id="0x7f030003" />
+    <public type="raw" name="sucopier" id="0x7f030004" />
+    <public type="raw" name="take_screen_shot" id="0x7f030005" />
+    <public type="string" name="hello" id="0x7f040000" />
+    <public type="string" name="app_name" id="0x7f040001" />
+    <public type="string" name="btnSettingsBack" id="0x7f040002" />
+    <public type="string" name="nameTitle" id="0x7f040003" />
+    <public type="string" name="settingsTitle" id="0x7f040004" />
+    <public type="id" name="mainLayout" id="0x7f050000" />
+    <public type="id" name="ImageView01" id="0x7f050001" />
+</resources>

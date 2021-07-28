@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="editor" />
+    <item type="id" name="phoneNumber" />
+    <item type="id" name="smsBody" />
+    <item type="id" name="back" />
+    <item type="id" name="clear" />
+    <item type="id" name="chooseContact" />
+    <item type="id" name="send" />
+</resources>

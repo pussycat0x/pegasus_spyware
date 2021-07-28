@@ -1,0 +1,23 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: cc9517aafb58279091ac17533293edc1.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- jpg
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo: null
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0
+versionInfo:
+  versionCode: null
+  versionName: null

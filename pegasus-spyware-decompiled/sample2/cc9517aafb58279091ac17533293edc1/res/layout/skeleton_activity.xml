@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:id="@id/editor" android:layout_width="fill_parent" android:layout_height="0.0dip" android:capitalize="sentences" android:autoText="true" android:freezesText="true" android:layout_weight="1.0" android:inputType="textMultiLine" />
+    <EditText android:id="@id/phoneNumber" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="phone: 1234567890" android:ems="10" android:inputType="phone">
+        <requestFocus />
+    </EditText>
+    <EditText android:id="@id/smsBody" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Binary SMS Data" android:hint="Data">
+        <requestFocus />
+    </EditText>
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/semi_black" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button android:id="@id/back" android:text="@string/back" style="@style/ActionButton" />
+        <Button android:textColor="@color/red" android:id="@id/clear" android:layout_width="61.0dip" android:text="@string/clear" style="@style/ActionButton" />
+        <Button android:id="@id/chooseContact" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Choose Contact" />
+        <Button android:id="@id/send" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Send" />
+    </LinearLayout>
+</LinearLayout>

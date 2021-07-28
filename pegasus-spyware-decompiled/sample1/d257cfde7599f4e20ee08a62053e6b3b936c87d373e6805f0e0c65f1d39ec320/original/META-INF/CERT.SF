@@ -1,0 +1,70 @@
+Signature-Version: 1.0
+Created-By: 1.0 (ApkEditor<luomao2000@tom.com>)
+SHA1-Digest-Manifest: lUJmaqdnmd9Vg5Vt+++r0RxYmY4=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: cIga++hy5wqjHl9IHSfbg8tqCug=
+
+Name: res/drawable-xxhdpi/logo.jpg
+SHA1-Digest: uygfzpBP/DeZqzD8sgxyqC4IpDU=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: stS7pUucSY0GgAVoESyO3Y7SanU=
+
+Name: res/menu/mtplugin.xml
+SHA1-Digest: F40Jiuh7KkXLVpuGUx6vc2k/rOQ=
+
+Name: assets/libhook.so
+SHA1-Digest: hn/q3iupXOSC024vl7b6wQAe6lg=
+
+Name: res/layout/activity_splash.xml
+SHA1-Digest: h3G/fXbR2noiWZs6+8cqH7zY6aA=
+
+Name: resources.arsc
+SHA1-Digest: +YUN21ldK8NhiMwDR4WXEsMJYWA=
+
+Name: classes.dex
+SHA1-Digest: h1YNxBRNVLE5gPxW1TKQrYmUO4k=
+
+Name: assets/libghost.so
+SHA1-Digest: i9ov2gveoWtb3cibZJ6j+2WQQrw=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: KKqaLh/DVvFp+v1KoaDw7xETvrI=
+
+Name: res/menu/main_surface.xml
+SHA1-Digest: qmpLS09aJMwb4d0Y/buwhQgfOg0=
+
+Name: res/layout/a.xml
+SHA1-Digest: 0CJuyp2LiDN0nZPfy+h10D1NggY=
+
+Name: res/drawable-xhdpi/logo.jpg
+SHA1-Digest: aS4o78A5GuoAtzxji7UE1r66yzA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: pqMXXOeO6KKs5JLPEc+7HPDSp6g=
+
+Name: res/drawable-hdpi/logo.jpg
+SHA1-Digest: lNau9Qg6H7+D8DzmnXqe2zy6Nmk=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: VY7kOF8E3rn8EUTvQC/DcBEN6kQ=
+
+Name: res/drawable/activity_main_mt_selector_bg.xml
+SHA1-Digest: 8neHUVgQ2OUFr1ugeeQd5kAFIEo=
+
+Name: res/layout/main_ui.xml
+SHA1-Digest: tPJmdACAHf7srld/yoZ9Sk7xkbw=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: B3BQjV740tHZe3jF+AVBarJN9Pw=
+
+Name: assets/inject
+SHA1-Digest: l0QzdGpjdLF63WU3ZfZ2COWrQtU=
+
+Name: lib/armeabi/libsubstrate.so
+SHA1-Digest: X/W7CW73TUpqLRqjs+hmSzZVtbo=
+
+Name: res/drawable-mdpi/logo.jpg
+SHA1-Digest: DUF56gzpU1zkW+dKw1rMvgB5YNs=
+

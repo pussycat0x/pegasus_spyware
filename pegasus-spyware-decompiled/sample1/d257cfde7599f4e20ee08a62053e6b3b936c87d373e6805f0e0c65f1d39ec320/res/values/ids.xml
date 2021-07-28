@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="text1" />
+    <item type="id" name="mt_tip" />
+    <item type="id" name="mt_check_version" />
+    <item type="id" name="mt_spinner" />
+    <item type="id" name="mt_selected_version" />
+    <item type="id" name="rushDistance" />
+    <item type="id" name="et_rushDistance" />
+    <item type="id" name="rg" />
+    <item type="id" name="et_bonus" />
+    <item type="id" name="mt_button_ll" />
+    <item type="id" name="startButton" />
+    <item type="id" name="checkUpdate" />
+    <item type="id" name="mt_announcement" />
+    <item type="id" name="mt_announcement_text" />
+    <item type="id" name="mt_soft_info" />
+    <item type="id" name="start_btn" />
+    <item type="id" name="action_settings" />
+</resources>
